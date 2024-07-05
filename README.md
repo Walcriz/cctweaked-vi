@@ -21,6 +21,8 @@ To then open the editor
 - A vi like control scheme for editing files in CC:Tweaked
 - Clipboard function
 - Undo/Redo
+- Search for text
+- Search and replace
 - And a bit more!
 
 ## Limitations
