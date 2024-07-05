@@ -1,7 +1,10 @@
 # vi.lua
 A vi like editor for CC:Tweaked made in about a day by using [edit.lua](https://github.com/cc-tweaked/CC-Tweaked/blob/mc-1.20.x/projects/core/src/main/resources/data/computercraft/lua/rom/programs/edit.lua) as a base.
 
-![image](https://github.com/Walcriz/cctweaked-vi/assets/68862100/72346e68-04a1-4922-8b2a-12ff9544a9bb)
+| Advanced Computer | Basic Computer |
+:------------------:|:---------------:|
+| ![image](https://github.com/Walcriz/cctweaked-vi/assets/68862100/72346e68-04a1-4922-8b2a-12ff9544a9bb) | ![image](https://github.com/Walcriz/cctweaked-vi/assets/68862100/b233e46f-94a0-47b8-aefe-b48d59996f1a) |
+
 
 ## Installation
 To install run this command in your CC:Tweaked computer
