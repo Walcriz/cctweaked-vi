@@ -24,7 +24,7 @@ To then open the editor
 - To exit `INSERT` mode `CTRL+C` must be used in place of `ESC` since that would just close the gui
 - Commands like `w` `b` and `e` are not really correcly implemented (though only for repeating `.` `-` etc.), if you are an experienced vim user this may be noticable
 - No VISUAL mode exists (traces of an implementation exists though, contributions are welcome)
-- Commands like `f` and `t` are not implemented (a list of them can be found in source [here](https://github.com/Walcriz/cctweaked-vi/blob/e2baf9316d827d23e6bb87e09a60818d0df6120a/vi.lua#L994))
+- Commands like `f` and `t` are not implemented (a list of commands can be found in source [here](https://github.com/Walcriz/cctweaked-vi/blob/e2baf9316d827d23e6bb87e09a60818d0df6120a/vi.lua#L994))
 
 ## Credits
 - The original CC:Tweaked [edit.lua](https://github.com/cc-tweaked/CC-Tweaked/blob/mc-1.20.x/projects/core/src/main/resources/data/computercraft/lua/rom/programs/edit.lua)
